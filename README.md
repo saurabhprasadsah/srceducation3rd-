@@ -1,2 +1,4 @@
 # srceducation3rd-
-C++ code
+C++ code here📍
+Codelikeaboss
+Cool😎
