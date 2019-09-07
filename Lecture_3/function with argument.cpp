@@ -6,14 +6,14 @@ class sample
 {
 	private:
 		int x,y;
-		public:
-			void getdata(int a, int b)
+	public:
+		void getdata(int a, int b)
 			{
 				x=a;
 				y=b;
 			}
-			void showdata();
-};
+		void showdata();
+};/// end of class
 void sample::showdata()
 {
 	cout<<"value of X ="<<x<<endl;
