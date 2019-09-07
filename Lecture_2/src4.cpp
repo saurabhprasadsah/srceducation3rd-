@@ -1,7 +1,6 @@
-#include<conio.h>
 #include<iostream>
 using  namespace std;
-
+#include<conio.h>
 class sample
 {
 	public:
