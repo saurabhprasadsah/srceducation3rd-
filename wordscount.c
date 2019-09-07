@@ -14,7 +14,7 @@
 		}
 		l++;
 	}
-	printf("\n \n no of words = %d ",c+1);
+	printf("\n NO of words = %d ",c+1);
 	return 0;
 	
 }
