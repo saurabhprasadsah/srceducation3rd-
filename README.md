@@ -1,10 +1,4 @@
 # srceducation3rd-
 # C++ code here📍
-Codelikeaboss
-
-
-# repo closed
-💕💕💕😁😁😁😁
-🙏🙏🙏🙏🙏
-
+# code like a boss
 # Happy coding🙂🙂🙂 🤘🤘🙏🙏🙏
