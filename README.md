@@ -2,5 +2,5 @@
 # C++ code here📍
 # code like a boss
 
-# killer🤘🤘🤘🤘
+# killer🤘🤘🤘🤘 code
 # Happy coding🙂🙂🙂 🤘🤘🙏🙏🙏
