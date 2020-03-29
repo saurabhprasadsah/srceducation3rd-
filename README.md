@@ -1,6 +1,3 @@
 # srceducation3rd-
-# C++ code here📍
-# code like a boss💛
-# Happy coding🙂🙂🙂 🤘🤘🙏🙏🙏
-# BE happy
-# happy coding
+Education is the key ofsuccess
+# Happy coding
